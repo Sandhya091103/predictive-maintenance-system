@@ -2,6 +2,8 @@
 
 An end-to-end machine learning system that predicts industrial equipment failures using IoT sensor data — enabling proactive maintenance scheduling and reducing unplanned downtime.
 
+**Live Demo:** [predictive-maintenance-systemm.streamlit.app](https://predictive-maintenance-systemm.streamlit.app/)
+
 ---
 
 ## Results
